@@ -5,3 +5,8 @@ body {
 p{
     text-align:center;
 }
+
+#insp{
+    font-size: 35px;
+    color: coral
+}
