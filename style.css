@@ -22,3 +22,7 @@ p{
     border: 5px black solid;
     padding: 5px;
 }
+
+.itens {
+    font-size: 30px;
+}
