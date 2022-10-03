@@ -26,3 +26,12 @@ p{
 .itens {
     font-size: 60px;
 }
+
+ul{
+display: inline-block;
+vertical-align: top;
+}
+
+#pict {
+    width: 50%;
+}
