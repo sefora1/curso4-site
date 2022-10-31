@@ -8,6 +8,10 @@ header {
     width: 250px;
 }
 
+nav{
+    display: inline-block;
+}
+
 nav li {
     display: inline;
 }
