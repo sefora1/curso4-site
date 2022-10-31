@@ -18,6 +18,7 @@ nav{
 
 nav li {
     display: inline;
+    margin-left: 15px;
 }
 
 nav a{
