@@ -2,6 +2,12 @@ header {
     background: rgb(4, 3, 77);
 }
 
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
 h1{
     display: inline;
 }
