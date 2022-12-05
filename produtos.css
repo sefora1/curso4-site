@@ -43,7 +43,12 @@ nav a{
 }
 
 .item{
-    width: 350;
+    width: 150;
+    height: 100;
+}
+
+h2 {
+    font-weight: bold;
 }
 
      
